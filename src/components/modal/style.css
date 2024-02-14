@@ -1,0 +1,37 @@
+.Modal__container{
+    position: fixed;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.1);
+    min-height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Modal{
+   border-radius: 5px;
+    border:  1px solid black;
+    padding: 0.5%;
+    background-color: white;
+    padding: 10px 50px;
+}
+.Modal__header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.Modal__content{
+    padding: 30px 0;
+
+}
+.Modal__footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Modal__footer >:first-child {
+    margin-right: 10px;
+
+}

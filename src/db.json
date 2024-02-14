@@ -1,0 +1,2091 @@
+{
+    "items": [
+      {
+        "id": "6GkAAAAAAAApR1VJRC00OUQ1RDQ2Qy1EMjk4LTQwRjMtQjA0Ri05NDNDMDg3NDI3MEMFZW4tVVMBMSlHVUlELUQ3OENDNjRGLTBCN0ItNDc1Qy04MUQxLTBCODJEMjIzODlDNwhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-01-15T12:24:05",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGSUBSTANCE",
+                  "label": "Drug Substance",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "S.4.5",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Justification of Specification",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-15T00:00:00",
+                "type": "dateTime"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "4",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREALM",
+                  "label": "LM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "Test Conditions Dominik ",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "berrotd1",
+                "type": "userReference",
+                "label": "berrotd1"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEREGULATORYSUBMISSION",
+                  "label": "Regulatory Submission",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Substance_S.4.5_Justification of Specification_LM_Marketed",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-02-08T09:34:49",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "MHUAAAAAAAApR1VJRC01RjM5QTlFQy01RjM5LTRBNDktOUY5Ni1FOUM4MjI2RDUwOTIFZW4tVVMBMSlHVUlELTU3NUYyNDM3LUU3QjctNDZFMy1BRjdCLTY4OTU1RUNBM0E4NwhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-02-07T11:18:27",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGPRODUCT",
+                  "label": "Drug Product",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "FD",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Formulation Development",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREADEVICE",
+                  "label": "Device",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEDEVELOPMENT",
+                  "label": "Development",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "marte130",
+                "type": "userReference",
+                "label": "marte130"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEGENERICPROJECT",
+                  "label": "Generic Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Product_FD_Formulation Development_Device_Development",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-02-07T11:18:36",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "fSQAAAAAAAApR1VJRC05MEU3OTk4MC05MDVGLTQ5QkUtOTBFRC05RUMwNTAwNjk0NkUFZW4tVVMBMSlHVUlELUJFNzZDNDVBLUM2NzItNDM2Ni1CRjc0LUUzRDZEODFCQkFBMghUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2023-09-15T06:33:23",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDPEYAADS",
+                  "label": "DP & DS",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "MVR",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Method VAL IEC",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREADEVICE",
+                  "label": "Device",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "atshemyk",
+                "type": "userReference",
+                "label": "Kristina Atshemyan"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEGENERICPROJECT",
+                  "label": "Generic Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "test 12345",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-02-05T11:04:42",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "gWMAAAAAAAApR1VJRC0zRjY0MDc3RS1DRDM1LTRBOTUtQkE3RC02QTVBNTczRDczNkUFZW4tVVMBMSlHVUlELTQwMjQ5MjYxLUNBODAtNEQ1Qy04M0E0LTA1QzU1MDI4NTE1NghUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2023-12-14T15:33:50",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGSUBSTANCE",
+                  "label": "Drug Substance",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "S.4.4",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Batch Analyses",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1.2",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREASM",
+                  "label": "SM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              },
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREALM",
+                  "label": "LM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "Test-S.4.4 Batch Analysis 2",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "mihran.hovhannisyan",
+                "type": "userReference",
+                "label": "mihran.hovhannisyan"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEREGULATORYSUBMISSION",
+                  "label": "Regulatory Submission",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Substance_S.4.4_Batch Analyses_LM_Marketed",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-02-05T07:58:41",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "2SEAAAAAAAApR1VJRC0wMUEyQkQ5NS1GNEY5LTRFNUItQjEyRS1BMDQ1NUJENzI4NDIFZW4tVVMBMSlHVUlELTNCQzJGRkVCLUJGRTctNDQxQi04QjNCLTg1NjZCRkQ4OEVDRQhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2023-07-27T10:02:42",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGPRODUCT",
+                  "label": "Drug Product",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTCOUNTRYGERMANY",
+                  "label": "Germany",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "OneDoc",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "OnePPQ ",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "2",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREADEVICE",
+                  "label": "Device",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              },
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREALM",
+                  "label": "LM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEDEVELOPMENT",
+                  "label": "Development",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              },
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "blablabla",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "atshemyk",
+                "type": "userReference",
+                "label": "Kristina Atshemyan"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSPUBLISHED",
+                  "label": "Published",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEINTERNALREPORTS",
+                  "label": "Internal Reports",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "test created by...",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-02-02T13:43:00",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "J3MAAAAAAAApR1VJRC02RThFNEJGMC0zNzRELTQ3OTMtQjFEQS0xRTUxRTgxMDNGNzUFZW4tVVMBMSlHVUlELUQ5QzYyQTYzLTQ1QTktNDM3QS1BN0JBLUE2NTlFMjk5RThCQwhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-01-31T13:01:21",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEREGIONAL",
+                  "label": "Regional",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "FD",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Formulation Development",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREAOTHER",
+                  "label": "Other",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEOTHER",
+                  "label": "Other",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "atshemyk",
+                "type": "userReference",
+                "label": "Kristina Atshemyan"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEINTERNALREPORTS",
+                  "label": "Internal Reports",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Regional_FD_Formulation Development_Other_Other",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-31T13:01:29",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "KHIAAAAAAAApR1VJRC1FRkQyOEFEMS1GOUQ0LTQyNTQtOEJFMC1CQkJDMjk3ODA4MDQFZW4tVVMBMSlHVUlELUNBMEY0MUM5LTM0Q0EtNEQzNi1BOTg0LTI0ODI1NkY4RTk5RQhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-01-31T09:20:38",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGSUBSTANCE",
+                  "label": "Drug Substance",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "S.2.3",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Control of Materials - Starting Material",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREASM",
+                  "label": "SM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              },
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEOTHER",
+                  "label": "Other",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "S.2.3 Sample Template - Ericsson v2",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "marte130",
+                "type": "userReference",
+                "label": "marte130"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEREGULATORYSUBMISSION",
+                  "label": "Regulatory Submission",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Substance_S.2.3_Control of Materials - Starting Material_SM_Marketed_Other",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-31T09:20:48",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "4nEAAAAAAAApR1VJRC03MjQyOTUxRi1BREM1LTRBQTctOURBMS0wNzM3NTREMzlFMjAFZW4tVVMBMSlHVUlELUUxNzVDNDdDLTMyQjItNDkwRi04MDRELTNFQkUwODBENThGQghUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-01-29T18:29:53",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGSUBSTANCE",
+                  "label": "Drug Substance",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "S.2.3",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Control of Materials - Starting Material",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREALM",
+                  "label": "LM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEMARKETED",
+                  "label": "Marketed",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "S.2.3 Template by Elias",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "boscocre",
+                "type": "userReference",
+                "label": "boscocre"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEREGULATORYSUBMISSION",
+                  "label": "Regulatory Submission",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Substance_S.2.3_Control of Materials - Starting Material_LM_Marketed",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-29T19:45:57",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "gHEAAAAAAAApR1VJRC0zNjFFOTNDOS01MkZELTRBNjQtQjhENC00NjBFRDgwNDg0QTkFZW4tVVMBMSlHVUlELTdFRjE4QTcwLUZBQjgtNDBDNy04NTUzLTMyMTUwM0E3MUFENghUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2024-01-25T14:41:16",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEDRUGSUBSTANCE",
+                  "label": "Drug Substance",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "MVR",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Method Val PS20",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-25T00:00:00",
+                "type": "dateTime"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1.2",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTPRODUCTAREALM",
+                  "label": "LM",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTTEMPLATESTAGEOTHER",
+                  "label": "Other",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "pankaj.bharti@businesspartner.roche.com",
+                "type": "userReference",
+                "label": "bhartip"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATESTATUSDRAFT",
+                  "label": "Draft",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEINTERNALREPORTS",
+                  "label": "Internal Reports",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Drug Substance_MVR_Method Val PS20_LM_Other",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-25T14:41:27",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "id": "NCUAAAAAAAApR1VJRC04NEU0RDVCMy03OUE0LTQ0N0YtQTNCRC05NjUxOTc0NzIwOEEFZW4tVVMBMSlHVUlELTYyMkRDNjRBLTIyNjktNDYyRC04RkRBLTIzRTdGNzlGMkFERQhUZW1wbGF0ZQ",
+        "fields": [
+          {
+            "values": [
+              {
+                "value": "2023-09-18T11:17:24",
+                "type": "dateTime"
+              }
+            ],
+            "id": "CREATED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VCUSTBBCODEAPPENDICES",
+                  "label": "Appendices",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FCUSTBBCODE",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRY",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTCOUNTRYGROUP",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "QRA",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDCODE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "Quality Risk Assessment",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTCTDTITLE",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTEFFECTIVEDATE",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "6",
+                "type": "string"
+              }
+            ],
+            "id": "FCUSTEFFECTIVEVERSION",
+            "type": "string"
+          },
+          {
+            "values": [],
+            "id": "FCUSTPRODUCTAREA",
+            "type": "multiLov"
+          },
+          {
+            "values": [],
+            "id": "FCUSTTEMPLATESTAGE",
+            "type": "multiLov"
+          },
+          {
+            "values": [
+              {
+                "value": "testing1111 testing1111 testing1111 testing1111 testing1111 testing1111 testing1111 testing1111 testing1111 testing1111testing1111 testing1111 testing1111",
+                "type": "string"
+              }
+            ],
+            "id": "FDESCRIPTION",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "mihran.hovhannisyan@roche.com",
+                "type": "userReference",
+                "label": "mihran.hovhannisyan@roche.com"
+              }
+            ],
+            "id": "FIAPCREATEDBY",
+            "type": "userReference"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPOBJECTTYPETEMPLATE",
+                  "label": "Template",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPOBJECTTYPE",
+            "type": "lov"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEMANAGER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATEOWNER",
+            "type": "userReference"
+          },
+          {
+            "values": [],
+            "id": "FIAPTEMPLATESTATUS",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": {
+                  "id": "VIAPTEMPLATETYPEINTERNALREPORTS",
+                  "label": "Internal Reports",
+                  "description": null,
+                  "type": "lov"
+                },
+                "type": "lov"
+              }
+            ],
+            "id": "FIAPTEMPLATETYPE",
+            "type": "lov"
+          },
+          {
+            "values": [
+              {
+                "value": "Quality Risk Assessment",
+                "type": "string"
+              }
+            ],
+            "id": "FTITLE",
+            "type": "string"
+          },
+          {
+            "values": [
+              {
+                "value": "2024-01-25T09:29:53",
+                "type": "dateTime"
+              }
+            ],
+            "id": "MODIFIED-ON",
+            "type": "dateTime"
+          },
+          {
+            "values": [
+              {
+                "value": "1",
+                "type": "string"
+              }
+            ],
+            "id": "VERSION",
+            "type": "string"
+          }
+        ]
+      }
+    ],
+    "size": 10,
+    "total": 137,
+    "orderByField": {
+      "id": "MODIFIED-ON",
+      "order": "Descending"
+    }
+  }

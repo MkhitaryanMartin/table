@@ -1,0 +1,28 @@
+.Table-form{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px 80px;
+align-items: center;
+align-content: center;
+}
+
+
+.Table__search-input{
+  grid-column: 1/4;
+  grid-row: 1/3;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+
+ .Table-form__button-block{
+margin-top: 20px;
+  grid-column: 1/4;
+  align-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
+}
+.Table-form__button-block button{
+    margin-right: 20px;
+  }

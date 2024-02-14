@@ -1,0 +1,33 @@
+.Button{
+    padding: 15px 35px;
+    border: 1px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.Button:hover{
+   opacity: 0.8;
+}
+
+.Button--primary {
+    color: white;
+    background-color: #0066CC;
+  }
+
+  .Button--light {
+    background-color: white;
+    color: #0066CC;
+  }
+
+  .Button--inherit{
+    border: none;
+    padding: 3px;
+    background: none;
+  }
+
+  .Button--inherit:hover{
+   background: rgba(0, 0, 0, 0.5);
+   padding: 3px;
+   border-radius: 2px;
+   color: white;
+  }
